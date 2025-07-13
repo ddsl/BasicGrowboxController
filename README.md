@@ -57,7 +57,7 @@ The project also provides a web interface for device management and data retriev
 ## 🚀 Setup and Usage
 
 1. **Wi-Fi Configuration**:
-   - Open the `WifiCreds.h` file and specify your Wi-Fi SSID and password:
+   - Create(if not exists) the `WifiCreds.h` file and specify your Wi-Fi SSID and password:
      ```cpp
      #define SSID "your_wifi_ssid"
      #define PASSWORD "your_wifi_password"
